@@ -19,9 +19,10 @@ print("password pass")
 time.sleep(2)
 submit_button.click()
 
-#
+#opens page with data
 browser.get("http://jeepme/webapp/tms/WebApp/TimeAttendanceLogs.aspx")
 
+#clicks on the export button
 export = browser.find_element_by_id("ctl00_ContentPlaceHolder1_btnExport")
 export.click()
 
