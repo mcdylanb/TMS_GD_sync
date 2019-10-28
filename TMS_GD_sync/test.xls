@@ -1,0 +1,57 @@
+<style>.text { mso-number-format:\@; } </style><table cellspacing="0" rules="all" EmptyDataText="No record returned" border="1" id="dbReport" style="border-color:Black;font-family:Arial;width:98%;border-collapse:collapse;Z-INDEX: 101; LEFT: 8px; POSITION: absolute; TOP: 8px">
+	<tr style="color:#002A64;background-color:#C4D4B7;font-family:Verdana;font-size:X-Small;font-weight:bold;">
+		<td>Work Week</td><td>Month</td><td>Day</td><td>Date</td><td>Shift Code</td><td>TimeIn</td><td>TimeOut</td><td>Updated TimeIn</td><td>Updated TimeOut</td><td>Late</td><td>Undertime</td><td>Rendered Hours</td><td>Date File</td><td>Status</td><td>Date Approved</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201944</td><td>October</td><td>Monday</td><td>2019-10-28</td><td>Regular</td><td>08:25:02</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:25</td><td>08:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201943</td><td>October</td><td>Sunday</td><td>2019-10-27</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201943</td><td>October</td><td>Saturday</td><td>2019-10-26</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201943</td><td>October</td><td>Friday</td><td>2019-10-25</td><td>Regular</td><td>08:55:38</td><td>17:09:05</td><td>00:00:00</td><td>00:00:00</td><td>00:55</td><td>00:00:00</td><td>07:05:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201943</td><td>October</td><td>Thursday</td><td>2019-10-24</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201943</td><td>October</td><td>Wednesday</td><td>2019-10-23</td><td>Regular</td><td>08:25:36</td><td>18:36:25</td><td>00:00:00</td><td>00:00:00</td><td>00:25</td><td>00:00:00</td><td>07:35:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201943</td><td>October</td><td>Tuesday</td><td>2019-10-22</td><td>Regular</td><td>08:53:37</td><td>16:57:16</td><td>00:00:00</td><td>00:00:00</td><td>00:53</td><td>00:00:00</td><td>07:07:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201943</td><td>October</td><td>Monday</td><td>2019-10-21</td><td>Regular</td><td>08:26:26</td><td>16:46:31</td><td>00:00:00</td><td>00:00:00</td><td>00:26</td><td>00:00:00</td><td>07:34:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201942</td><td>October</td><td>Sunday</td><td>2019-10-20</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201942</td><td>October</td><td>Saturday</td><td>2019-10-19</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201942</td><td>October</td><td>Friday</td><td>2019-10-18</td><td>Regular</td><td>08:26:01</td><td>17:24:13</td><td>00:00:00</td><td>00:00:00</td><td>00:26</td><td>00:00:00</td><td>07:34:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201942</td><td>October</td><td>Thursday</td><td>2019-10-17</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201942</td><td>October</td><td>Wednesday</td><td>2019-10-16</td><td>Regular</td><td>08:24:56</td><td>17:52:49</td><td>00:00:00</td><td>00:00:00</td><td>00:24</td><td>00:00:00</td><td>07:36:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201942</td><td>October</td><td>Tuesday</td><td>2019-10-15</td><td>Regular</td><td>08:25:48</td><td>16:52:27</td><td>00:00:00</td><td>00:00:00</td><td>00:25</td><td>00:00:00</td><td>07:35:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201942</td><td>October</td><td>Monday</td><td>2019-10-14</td><td>Regular</td><td>08:23:40</td><td>16:42:12</td><td>00:00:00</td><td>00:00:00</td><td>00:23</td><td>00:00:00</td><td>07:37:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201941</td><td>October</td><td>Sunday</td><td>2019-10-13</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201941</td><td>October</td><td>Saturday</td><td>2019-10-12</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201941</td><td>October</td><td>Friday</td><td>2019-10-11</td><td>Regular</td><td>08:39:29</td><td>16:40:51</td><td>00:00:00</td><td>00:00:00</td><td>00:39</td><td>00:00:00</td><td>07:21:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201941</td><td>October</td><td>Thursday</td><td>2019-10-10</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201941</td><td>October</td><td>Wednesday</td><td>2019-10-09</td><td>Regular</td><td>08:40:18</td><td>17:22:36</td><td>00:00:00</td><td>00:00:00</td><td>00:40</td><td>00:00:00</td><td>07:20:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201941</td><td>October</td><td>Tuesday</td><td>2019-10-08</td><td>Regular</td><td>05:53:46</td><td>16:20:06</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>08:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201941</td><td>October</td><td>Monday</td><td>2019-10-07</td><td>Regular</td><td>05:54:56</td><td>16:50:48</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>08:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201940</td><td>October</td><td>Sunday</td><td>2019-10-06</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201940</td><td>October</td><td>Saturday</td><td>2019-10-05</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="font-size:X-Small;">
+		<td>201940</td><td>October</td><td>Friday</td><td>2019-10-04</td><td>Regular</td><td>14:37:41</td><td>18:08:45</td><td>00:00:00</td><td>00:00:00</td><td>06:37</td><td>00:00:00</td><td>01:23:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="color:Black;font-size:X-Small;">
+		<td>201940</td><td>October</td><td>Thursday</td><td>2019-10-03</td><td>Regular</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00:00</td><td>00:00</td><td>00:00:00</td><td>00:00:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr>
+</table>
